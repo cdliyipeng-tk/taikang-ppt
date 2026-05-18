@@ -1,10 +1,10 @@
 # 泰康 PPT 模板要求
 
-本文件根据 `泰康保险集团PPT主题模板要求v1.pptx` 提炼。实际制作 PPT 时，以 `../assets/taikang-ppt-template.pptx` 为模板文件。
+本文件根据 `../assets/taikang-ppt-template-requirements-v1.pptx` 提炼。实际制作 PPT 时，以 `../assets/taikang-ppt-template.pptx` 为模板文件。
 
 ## 模板定位
 
-- v1：规则来源。
+- v1：规则来源，对应 `../assets/taikang-ppt-template-requirements-v1.pptx`。
 - v2：制作新 PPT 的直接模板。
 - v3：内容页排版参考。字体大小，字体和颜色以内容页字体层级要求为准。
 

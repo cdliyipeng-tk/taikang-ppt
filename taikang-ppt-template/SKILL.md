@@ -9,7 +9,7 @@ description: Use when creating, revising, auditing, or rebuilding PPT/PPTX decks
 
 本 skill 只按用户指定的三份资料工作：
 
-- `泰康保险集团PPT主题模板要求v1.pptx`：模板要求与检查标准来源。
+- `assets/taikang-ppt-template-requirements-v1.pptx`：模板要求与检查标准来源，来自 `泰康保险集团PPT主题模板要求v1.pptx`。
 - `assets/taikang-ppt-template.pptx`：制作新 PPT 时直接使用的模板，来自 `泰康保险集团PPT主题模板v2.pptx`。
 - `assets/content-layout-reference.pptx`：内容页排版参考，来自 `泰康保险集团PPT内容页排版布局示例v3.pptx`。
 
