@@ -1,0 +1,3 @@
+display_name: 泰康 PPT
+short_description: 使用 v1 要求、v2 模板、v3 内容页参考制作泰康 PPT。
+default_prompt: 使用泰康 v2 模板制作或修改 PPT，并按 v1 要求和 v3 内容页参考完成排版与检查。
